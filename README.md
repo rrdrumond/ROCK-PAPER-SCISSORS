@@ -1,2 +1,2 @@
 # ROCK-PAPER-SCISSORS
-Program game that traditional Rock, Paper or Scissors
+Program game that traditional game Rock, Paper or Scissors
